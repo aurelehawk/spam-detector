@@ -1,0 +1,10 @@
+.env
+venv
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Keep models directory but ignore model files
+models/*.pkl
